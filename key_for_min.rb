@@ -1,4 +1,4 @@
-key_for_min_value = {l"key" => "keys" => "values" => "min" => "sort"}
+key_for_min_value = {"key" => "keys" => "values" => "min" => "sort"}
 
 def key_for_min_value(key)
 
