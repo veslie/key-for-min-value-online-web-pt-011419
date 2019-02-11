@@ -1,4 +1,4 @@
-key_for_min_value = {:blake => 500, :ashley => 2, :adam => 1}
+key_for_min_value = {}
 
 def key_for_min_value(key)
 
