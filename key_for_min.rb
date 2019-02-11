@@ -1,4 +1,4 @@
-key_for_min_value = {:"key" => 2, "keys" => 5, "values" => 7, "min" => 4, "sort" 8,}
+key_for_min_value = {:"key" => "keys" => "values" => "min" => "sort"}
 
 def key_for_min_value(key)
 
